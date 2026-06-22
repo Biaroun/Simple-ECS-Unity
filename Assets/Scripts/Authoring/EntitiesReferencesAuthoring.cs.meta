@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06ac35bb576e68d48b8d933ff578efee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - botCarRPrefabGameObject: {fileID: 5834514917267740376, guid: 9c842027f1fd2d04a9b30b764faa6c2e, type: 3}
+  - botCarGPrefabGameObject: {fileID: 1875287150030577973, guid: d75797eab9b99b345b7459938ad45c7e, type: 3}
+  - botCarBPrefabGameObject: {fileID: 9179815878266438269, guid: 9f31a64f5bf10204bb1de25792166893, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
